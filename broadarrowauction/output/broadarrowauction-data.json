@@ -1,0 +1,914 @@
+[
+  {
+    "price": "$109,200",
+    "year": "1962",
+    "brand": "Jaguar",
+    "description": "E-Type Series 1 3.8 Fixed Head Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1560/72753/790x1024/1962-jaguar-e-type-series-1-3-8-fixed-head-coupe"
+  },
+  {
+    "price": "$184,800",
+    "year": "1948",
+    "brand": "Divco",
+    "description": "Twin Coach Half Ton",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1554/69603/790x1024/1948-divco-twin-coach-half-ton"
+  },
+  {
+    "price": "$134,400",
+    "year": "1987",
+    "brand": "Ferrari",
+    "description": "Testarossa",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1528/64031/790x1024/1987-ferrari-testarossa"
+  },
+  {
+    "price": "$47,600",
+    "year": "1955",
+    "brand": "Nash",
+    "description": "Metropolitan Convertible",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1476/66341/790x1024/1955-nash-metropolitan-convertible"
+  },
+  {
+    "price": "$114,800",
+    "year": "1958",
+    "brand": "Chevrolet",
+    "description": "Corvette",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1465/65623/790x1024/1958-chevrolet-corvette"
+  },
+  { "price": "$196,000", "year": "1967", "brand": "Shelby", "description": "GT500", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1451/64410/790x1024/1967-shelby-gt500" },
+  {
+    "price": "$112,000",
+    "year": "1957",
+    "brand": "Chevrolet",
+    "description": "Bel Air Convertible",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1468/65822/790x1024/1957-chevrolet-bel-air-convertible"
+  },
+  {
+    "price": "$184,800",
+    "year": "1961",
+    "brand": "Chrysler",
+    "description": "300 G Convertible",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1443/66616/790x1024/1961-chrysler-300-g-convertible"
+  },
+  {
+    "price": "$193,200",
+    "year": "1963",
+    "brand": "Chevrolet",
+    "description": "Corvette Sting Ray Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1455/64771/790x1024/1963-chevrolet-corvette-sting-ray-coupe"
+  },
+  {
+    "price": "$268,800",
+    "year": "1969",
+    "brand": "Shelby",
+    "description": "GT500 Convertible",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1453/64624/790x1024/1969-shelby-gt500-convertible"
+  },
+  {
+    "price": "$84,000",
+    "year": "1957",
+    "brand": "DeSoto",
+    "description": "Firesweep Sportsman Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1474/66186/790x1024/1957-desoto-firesweep-sportsman-coupe"
+  },
+  {
+    "price": "$117,600",
+    "year": "1941",
+    "brand": "Packard",
+    "description": "1901 One Twenty Station Wagon",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1467/65691/790x1024/1941-packard-1901-one-twenty-station-wagon"
+  },
+  {
+    "price": "$280,000",
+    "year": "1970",
+    "brand": "Plymouth",
+    "description": "'Cuda Hemi",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1459/64916/790x1024/1970-plymouth-cuda-hemi"
+  },
+  {
+    "price": "$80,640",
+    "year": "1954",
+    "brand": "Kaiser-Darrin",
+    "description": "Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1470/65997/790x1024/1954-kaiser-darrin-roadster"
+  },
+  {
+    "price": "$117,600",
+    "year": "1970",
+    "brand": "Ford",
+    "description": "Mustang Mach 1",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1471/66116/790x1024/1970-ford-mustang-mach-1"
+  },
+  {
+    "price": "$151,200",
+    "year": "1953",
+    "brand": "Cadillac",
+    "description": "Eldorado",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1456/64782/790x1024/1953-cadillac-eldorado"
+  },
+  {
+    "price": "$106,400",
+    "year": "1947",
+    "brand": "Chrysler",
+    "description": "Town and Country Convertible",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1466/65815/790x1024/1947-chrysler-town-and-country-convertible"
+  },
+  {
+    "price": "$406,500",
+    "year": "1967",
+    "brand": "Chevrolet",
+    "description": "Yenko Super Camaro SS",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1447/66865/790x1024/1967-chevrolet-yenko-super-camaro-ss"
+  },
+  {
+    "price": "$610,000",
+    "year": "1953",
+    "brand": "Cunningham",
+    "description": "C3 Vignale Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1446/66812/790x1024/1953-cunningham-c3-vignale-coupe"
+  },
+  {
+    "price": "$109,200",
+    "year": "1953",
+    "brand": "Oldsmobile",
+    "description": "Ninety-Eight Fiesta",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1478/66404/790x1024/1953-oldsmobile-ninety-eight-fiesta"
+  },
+  {
+    "price": "$117,600",
+    "year": "1937",
+    "brand": "Terraplane",
+    "description": "72 Super Convertible Brougham",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1473/66181/790x1024/1937-terraplane-72-super-convertible-brougham"
+  },
+  {
+    "price": "$215,600",
+    "year": "1939",
+    "brand": "Packard",
+    "description": "1703 Super Eight Darrin Convertible Victoria",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1454/64697/790x1024/1939-packard-1703-super-eight-darrin-convertible-victoria"
+  },
+  {
+    "price": "$100,800",
+    "year": "1938",
+    "brand": "Cadillac",
+    "description": "Series 90 V-16 Fleetwood Town Sedan",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1469/65886/790x1024/1938-cadillac-series-90-v-16-fleetwood-town-sedan"
+  },
+  {
+    "price": "$114,800",
+    "year": "1936",
+    "brand": "Auburn",
+    "description": "852 Supercharged Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1463/65504/790x1024/1936-auburn-852-supercharged-cabriolet"
+  },
+  {
+    "price": "$103,600",
+    "year": "1914",
+    "brand": "Pierce-Arrow",
+    "description": "Model 38-C-2 Suburban",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1444/66673/790x1024/1914-pierce-arrow-model-38-c-2-suburban"
+  },
+  {
+    "price": "$47,600",
+    "year": "1912",
+    "brand": "Ford",
+    "description": "Model T Speedster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1475/66240/790x1024/1912-ford-model-t-speedster"
+  },
+  {
+    "price": "$117,600",
+    "year": "1954",
+    "brand": "Buick",
+    "description": "Skylark",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1464/65563/790x1024/1954-buick-skylark"
+  },
+  {
+    "price": "$112,000",
+    "year": "1931",
+    "brand": "Stutz",
+    "description": "DV-32 Five-Passenger Sedan",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1457/64905/790x1024/1931-stutz-dv-32-five-passenger-sedan"
+  },
+  {
+    "price": "$168,000",
+    "year": "1937",
+    "brand": "Cord",
+    "description": "812 Supercharged \"Sportsman\" Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1452/64611/790x1024/1937-cord-812-supercharged-sportsman-cabriolet"
+  },
+  {
+    "price": "$97,440",
+    "year": "1907",
+    "brand": "Cadillac",
+    "description": "Model M Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1445/66752/790x1024/1907-cadillac-model-m-coupe"
+  },
+  {
+    "price": "$1,435,000",
+    "year": "1930",
+    "brand": "Duesenberg",
+    "description": "Model J Hibbard & Darrin Transformable Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1442/66519/790x1024/1930-duesenberg-model-j-hibbard-darrin-transformable-cabriolet"
+  },
+  {
+    "price": "$224,000",
+    "year": "1929",
+    "brand": "Packard",
+    "description": "640 Custom Eight Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1461/64985/790x1024/1929-packard-640-custom-eight-roadster"
+  },
+  {
+    "price": "$123,200",
+    "year": "1936",
+    "brand": "Cord",
+    "description": "810 Phaeton",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1462/65059/790x1024/1936-cord-810-phaeton"
+  },
+  {
+    "price": "$1,765,000",
+    "year": "1954",
+    "brand": "Oldsmobile",
+    "description": "F-88 Concept Car",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1441/66433/790x1024/1954-oldsmobile-f-88-concept-car"
+  },
+  { "price": "$156,800", "year": "1966", "brand": "Porsche", "description": "911", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1551/71584/790x1024/1966-porsche-911" },
+  { "price": "$406,500", "year": "2005", "brand": "Ford", "description": "GT", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1432/67408/790x1024/2005-ford-gt" },
+  {
+    "price": "$30,800",
+    "year": "1988",
+    "brand": "Mercedes-Benz",
+    "description": "560 SL",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1338/69228/790x1024/1988-mercedes-benz-560-sl"
+  },
+  {
+    "price": "$173,600",
+    "year": "1997",
+    "brand": "Porsche",
+    "description": "911 Carrera S",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1596/76114/790x1024/1997-porsche-911-carrera-s"
+  },
+  {
+    "price": "$100,800",
+    "year": "1973",
+    "brand": "Porsche",
+    "description": "911 T Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1523/74921/790x1024/1973-porsche-911-t-coupe"
+  },
+  {
+    "price": "$89,600",
+    "year": "1924",
+    "brand": "Rolls-Royce",
+    "description": "Silver Ghost Convertible Sedan",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1585/74527/790x1024/1924-rolls-royce-silver-ghost-convertible-sedan"
+  },
+  {
+    "price": "$180,000",
+    "year": "1969",
+    "brand": "Mercedes-Benz",
+    "description": "280 SE Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1337/51431/790x1024/1969-mercedes-benz-280-se-cabriolet"
+  },
+  {
+    "price": "$168,000",
+    "year": "1959",
+    "brand": "Chevrolet",
+    "description": "Corvette",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1498/61023/790x1024/1959-chevrolet-corvette"
+  },
+  {
+    "price": "$126,000",
+    "year": "1986",
+    "brand": "Ferrari",
+    "description": "Testarossa",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1496/60924/790x1024/1986-ferrari-testarossa"
+  },
+  {
+    "price": "$89,600",
+    "year": "1961",
+    "brand": "Mercedes-Benz",
+    "description": "190 SL",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1504/63151/790x1024/1961-mercedes-benz-190-sl"
+  },
+  {
+    "price": "$940,000",
+    "year": "1934",
+    "brand": "Cadillac",
+    "description": "V-16 Fleetwood Aerodynamic Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1332/59395/790x1024/1934-cadillac-v-16-fleetwood-aerodynamic-coupe"
+  },
+  {
+    "price": "$263,200",
+    "year": "1934",
+    "brand": "Packard",
+    "description": "1107 Twelve Coupe Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1492/64103/790x1024/1934-packard-1107-twelve-coupe-roadster"
+  },
+  {
+    "price": "$229,600",
+    "year": "1950",
+    "brand": "Jaguar",
+    "description": "XK120 Alloy Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1494/62866/790x1024/1950-jaguar-xk120-alloy-roadster"
+  },
+  {
+    "price": "$731,000",
+    "year": "1932",
+    "brand": "Stutz",
+    "description": "DV-32 Weymann Super Bearcat",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1335/62999/790x1024/1932-stutz-dv-32-weymann-super-bearcat"
+  },
+  {
+    "price": "$78,400",
+    "year": "1948",
+    "brand": "Jaguar",
+    "description": "3 ½-Litre Mark IV Drophead Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1505/63483/790x1024/1948-jaguar-3-litre-mark-iv-drophead-coupe"
+  },
+  {
+    "price": "$1,105,000",
+    "year": "1937",
+    "brand": "Delage",
+    "description": "D8-120 Letourneur et Marchand Coach JeLM",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1482/68586/790x1024/1937-delage-d8-120-letourneur-et-marchand-coach-jelm"
+  },
+  {
+    "price": "$229,600",
+    "year": "1931",
+    "brand": "Cord",
+    "description": "L-29 Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1503/63255/790x1024/1931-cord-l-29-cabriolet"
+  },
+  {
+    "price": "$456,000",
+    "year": "1938",
+    "brand": "Talbot-Lago",
+    "description": "T120 Cabriolet d'Usine",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1501/63199/790x1024/1938-talbot-lago-t120-cabriolet-d-usine"
+  },
+  {
+    "price": "$434,000",
+    "year": "1937",
+    "brand": "Delage",
+    "description": "D8-120 Chapron Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1421/68903/790x1024/1937-delage-d8-120-chapron-cabriolet"
+  },
+  {
+    "price": "$257,600",
+    "year": "1939",
+    "brand": "Talbot-Lago",
+    "description": "T150 C Conduite Intérieure d'Usine",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1502/62938/790x1024/1939-talbot-lago-t150-c-conduite-interieure-d-usine"
+  },
+  {
+    "price": "$212,800",
+    "year": "1962",
+    "brand": "Rolls-Royce",
+    "description": "Phantom V James Young Sedanca De Ville",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1507/63308/790x1024/1962-rolls-royce-phantom-v-james-young-sedanca-de-ville"
+  },
+  {
+    "price": "$335,000",
+    "year": "1939",
+    "brand": "Alfa",
+    "description": "Romeo 6C 2500 SS Touring-Style Berlinetta Aerodinamica",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1488/63037/790x1024/1939-alfa-romeo-6c-2500-ss-touring-style-berlinetta-aerodinamica"
+  },
+  {
+    "price": "$106,400",
+    "year": "1920",
+    "brand": "Kissel",
+    "description": "Model 6-45 \"Gold Bug\" Speedster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1495/64075/790x1024/1920-kissel-model-6-45-gold-bug-speedster"
+  },
+  {
+    "price": "$692,500",
+    "year": "1937",
+    "brand": "Lagonda",
+    "description": "LG45 Rapide Sport Tourer",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1486/64200/790x1024/1937-lagonda-lg45-rapide-sport-tourer"
+  },
+  {
+    "price": "$179,200",
+    "year": "1934",
+    "brand": "Packard",
+    "description": "Super Eight 2-Passenger Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1493/64154/790x1024/1934-packard-super-eight-2-passenger-coupe"
+  },
+  {
+    "price": "$489,000",
+    "year": "1970",
+    "brand": "Ferrari",
+    "description": "Dino 246 GT",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1334/59662/790x1024/1970-ferrari-dino-246-gt"
+  },
+  {
+    "price": "$1,380,000",
+    "year": "1930",
+    "brand": "Duesenberg",
+    "description": "Model J Murphy Convertible Sedan",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1333/73477/790x1024/1930-duesenberg-model-j-murphy-convertible-sedan"
+  },
+  {
+    "price": "$775,000",
+    "year": "1965",
+    "brand": "Aston",
+    "description": "Martin DB5",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1487/62793/790x1024/1965-aston-martin-db5"
+  },
+  {
+    "price": "$1,325,000",
+    "year": "1937",
+    "brand": "Bugatti",
+    "description": "Type 57C Atalante",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1331/69181/790x1024/1937-bugatti-type-57c-atalante"
+  },
+  {
+    "price": "$36,400",
+    "year": "1966",
+    "brand": "Cadillac",
+    "description": "Fleetwood Brougham",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1499/63414/790x1024/1966-cadillac-fleetwood-brougham"
+  },
+  {
+    "price": "$1,050,000",
+    "year": "1936",
+    "brand": "Hispano-Suiza",
+    "description": "J12 d'Ieteren Frères Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1481/63530/790x1024/1936-hispano-suiza-j12-d-ieteren-freres-cabriolet"
+  },
+  {
+    "price": "$362,500",
+    "year": "1956",
+    "brand": "Mercedes-Benz",
+    "description": "300 Sc Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1490/63098/790x1024/1956-mercedes-benz-300-sc-coupe"
+  },
+  {
+    "price": "$830,000",
+    "year": "1932",
+    "brand": "Rolls-Royce",
+    "description": "Phantom II Brewster & Co Henley Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1484/62000/790x1024/1932-rolls-royce-phantom-ii-brewster-co-henley-roadster"
+  },
+  {
+    "price": "$187,600",
+    "year": "1962",
+    "brand": "Lincoln",
+    "description": "Continental Convertible",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1497/63359/790x1024/1962-lincoln-continental-convertible"
+  },
+  {
+    "price": "$1,710,000",
+    "year": "1935",
+    "brand": "Mercedes-Benz",
+    "description": "500 K Cabriolet A",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1500/69287/790x1024/1935-mercedes-benz-500-k-cabriolet-a"
+  },
+  {
+    "price": "$5,600",
+    "year": "1911",
+    "brand": "Peugeot",
+    "description": "Type BP1 Bebe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1308/68206/790x1024/1911-peugeot-type-bp1-bebe"
+  },
+  { "price": "$35,840", "year": "1948", "brand": "MG", "description": "TC", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1311/68713/790x1024/1948-mg-tc" },
+  {
+    "price": "$56,000",
+    "year": "1952",
+    "brand": "Jaguar",
+    "description": "XK120 Fixed Head Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1312/69097/790x1024/1952-jaguar-xk120-fixed-head-coupe"
+  },
+  {
+    "price": "$56,000",
+    "year": "1927",
+    "brand": "Packard",
+    "description": "Six Model 5-26 Runabout",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1309/68229/790x1024/1927-packard-six-model-5-26-runabout"
+  },
+  {
+    "price": "$19,040",
+    "year": "1909",
+    "brand": "E-M-F",
+    "description": "Model 30 5-Passenger Touring",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1307/68200/790x1024/1909-e-m-f-model-30-5-passenger-touring"
+  },
+  {
+    "price": "$54,880",
+    "year": "1966",
+    "brand": "Austin-Healey",
+    "description": "3000 MK III BJ8",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1313/69135/790x1024/1966-austin-healey-3000-mk-iii-bj8"
+  },
+  {
+    "price": "$156,800",
+    "year": "1932",
+    "brand": "Packard",
+    "description": "Eight Deluxe Convertible Victoria",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1310/68263/790x1024/1932-packard-eight-deluxe-convertible-victoria"
+  },
+  {
+    "price": "$53,200",
+    "year": "1987",
+    "brand": "Ford",
+    "description": "Saleen Mustang",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1431/67064/790x1024/1987-ford-saleen-mustang"
+  },
+  {
+    "price": "$257,600",
+    "year": "1987",
+    "brand": "Ferrari",
+    "description": "Testarossa",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1541/68762/790x1024/1987-ferrari-testarossa"
+  },
+  {
+    "price": "$632,000",
+    "year": "1995",
+    "brand": "Honda",
+    "description": "NSX Type R",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1532/68421/790x1024/1995-honda-nsx-type-r"
+  },
+  {
+    "price": "$134,400",
+    "year": "1994",
+    "brand": "Lancia",
+    "description": "Delta Integrale Evoluzione II 16V “Blu Lord”",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1513/67238/790x1024/1994-lancia-delta-integrale-evoluzione-ii-16v-blu-lord"
+  },
+  {
+    "price": "$235,200",
+    "year": "1965",
+    "brand": "Shelby",
+    "description": "427 Cobra S/C Alloy Continuation",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1555/70745/790x1024/1965-shelby-427-cobra-s-c-alloy-continuation"
+  },
+  {
+    "price": "$201,600",
+    "year": "2000",
+    "brand": "Ferrari",
+    "description": "550 Maranello",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1538/73426/790x1024/2000-ferrari-550-maranello"
+  },
+  {
+    "price": "$456,000",
+    "year": "1973",
+    "brand": "Ferrari",
+    "description": "Dino 246 GTS",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1594/75495/790x1024/1973-ferrari-dino-246-gts"
+  },
+  {
+    "price": "$3,910,000",
+    "year": "1985",
+    "brand": "Ferrari",
+    "description": "288 GTO",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1438/60617/790x1024/1985-ferrari-288-gto"
+  },
+  {
+    "price": "$89,600",
+    "year": "1986",
+    "brand": "BMW",
+    "description": "Alpina B6 2.7",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1506/61132/790x1024/1986-bmw-alpina-b6-2-7"
+  },
+  {
+    "price": "$252,000",
+    "year": "1981",
+    "brand": "Porsche",
+    "description": "924 Carrera GTS Clubsport",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1562/73866/790x1024/1981-porsche-924-carrera-gts-clubsport"
+  },
+  {
+    "price": "$140,000",
+    "year": "1935",
+    "brand": "Lagonda",
+    "description": "Rapier Sports Special",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1423/65946/790x1024/1935-lagonda-rapier-sports-special"
+  },
+  {
+    "price": "$885,000",
+    "year": "1965",
+    "brand": "Shelby",
+    "description": "GT350 R",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1533/71038/790x1024/1965-shelby-gt350-r"
+  },
+  {
+    "price": "$179,200",
+    "year": "1962",
+    "brand": "Jaguar",
+    "description": "E-Type Series 1 3.8 Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1573/70335/790x1024/1962-jaguar-e-type-series-1-3-8-roadster"
+  },
+  {
+    "price": "$78,400",
+    "year": "1965",
+    "brand": "Citroën",
+    "description": "DS 21 Chapron Concorde",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1540/70955/790x1024/1965-citroen-ds-21-chapron-concorde"
+  },
+  {
+    "price": "$224,000",
+    "year": "2010",
+    "brand": "Porsche",
+    "description": "911 GT3",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1598/76334/790x1024/2010-porsche-911-gt3"
+  },
+  {
+    "price": "$1,985,000",
+    "year": "2015",
+    "brand": "Porsche",
+    "description": "918 Spyder",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1581/77044/790x1024/2015-porsche-918-spyder"
+  },
+  {
+    "price": "$235,200",
+    "year": "2023",
+    "brand": "Maserati",
+    "description": "MC20",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1591/75276/790x1024/2023-maserati-mc20"
+  },
+  {
+    "price": "$400,000",
+    "year": "1956",
+    "brand": "Cadillac",
+    "description": "Eldorado Brougham Town Car",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1520/68076/790x1024/1956-cadillac-eldorado-brougham-town-car"
+  },
+  {
+    "price": "$335,000",
+    "year": "2005",
+    "brand": "Ferrari",
+    "description": "575 Superamerica",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1589/75957/790x1024/2005-ferrari-575-superamerica"
+  },
+  { "price": "$995,000", "year": "2021", "brand": "Ford", "description": "GT", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1556/68316/790x1024/2021-ford-gt" },
+  {
+    "price": "$151,200",
+    "year": "1964",
+    "brand": "Land",
+    "description": "Rover Rover Series IIA",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1568/69832/790x1024/1964-land-rover-rover-series-iia"
+  },
+  {
+    "price": "$2,810,000",
+    "year": "1964",
+    "brand": "Ferrari",
+    "description": "250 GT Lusso Berlinetta",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1323/53411/790x1024/1964-ferrari-250-gt-lusso-berlinetta"
+  },
+  { "price": "$274,400", "year": "2002", "brand": "BMW", "description": "Z8", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1326/59177/790x1024/2002-bmw-z8" },
+  {
+    "price": "$117,600",
+    "year": "1964",
+    "brand": "Jaguar",
+    "description": "E-Type Series 1 3.8 Fixed Head Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1552/69671/790x1024/1964-jaguar-e-type-series-1-3-8-fixed-head-coupe"
+  },
+  { "price": "$390,000", "year": "1967", "brand": "Iso", "description": "Grifo", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1515/67604/790x1024/1967-iso-grifo" },
+  { "price": "$4,240,000", "year": "1995", "brand": "Ferrari", "description": "F50", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1599/77585/790x1024/1995-ferrari-f50" },
+  {
+    "price": "$100,800",
+    "year": "1961",
+    "brand": "Mercedes-Benz",
+    "description": "190 SL",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1578/71281/790x1024/1961-mercedes-benz-190-sl"
+  },
+  {
+    "price": "$940,000",
+    "year": "1967",
+    "brand": "Toyota",
+    "description": "2000GT",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1531/68364/790x1024/1967-toyota-2000gt"
+  },
+  {
+    "price": "$307,500",
+    "year": "2019",
+    "brand": "Porsche",
+    "description": "911 Turbo S Exclusive Series Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1590/76991/790x1024/2019-porsche-911-turbo-s-exclusive-series-cabriolet"
+  },
+  {
+    "price": "$582,500",
+    "year": "1964",
+    "brand": "Aston",
+    "description": "Martin DB5",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1439/64311/790x1024/1964-aston-martin-db5"
+  },
+  {
+    "price": "$1,160,000",
+    "year": "1955",
+    "brand": "Lancia",
+    "description": "B24 Spider America",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1424/75135/790x1024/1955-lancia-b24-spider-america"
+  },
+  {
+    "price": "$224,000",
+    "year": "2019",
+    "brand": "Chevrolet",
+    "description": "Corvette ZR1 Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1579/71405/790x1024/2019-chevrolet-corvette-zr1-coupe"
+  },
+  {
+    "price": "$467,000",
+    "year": "2015",
+    "brand": "Ferrari",
+    "description": "458 Speciale",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1518/72232/790x1024/2015-ferrari-458-speciale"
+  },
+  {
+    "price": "$291,000",
+    "year": "2008",
+    "brand": "Lamborghini",
+    "description": "Murcielago LP 640 Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1548/72056/790x1024/2008-lamborghini-murcielago-lp-640-roadster"
+  },
+  {
+    "price": "$483,500",
+    "year": "1930",
+    "brand": "Packard",
+    "description": "745 Deluxe Eight Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1422/63691/790x1024/1930-packard-745-deluxe-eight-roadster"
+  },
+  {
+    "price": "$291,000",
+    "year": "1971",
+    "brand": "Mercedes-Benz",
+    "description": "280 SE 3.5 Cabriolet",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1549/71770/790x1024/1971-mercedes-benz-280-se-3-5-cabriolet"
+  },
+  {
+    "price": "$494,500",
+    "year": "1996",
+    "brand": "Porsche",
+    "description": "Turbo \"RUF THR\"",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1593/75616/790x1024/1996-porsche-turbo-ruf-thr"
+  },
+  {
+    "price": "$395,500",
+    "year": "2008",
+    "brand": "Mercedes-Benz",
+    "description": "SLR McLaren Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1428/61986/790x1024/2008-mercedes-benz-slr-mclaren-roadster"
+  },
+  {
+    "price": "$1,930,000",
+    "year": "1956",
+    "brand": "Mercedes-Benz",
+    "description": "300 SL \"Gullwing\" Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1558/69688/790x1024/1956-mercedes-benz-300-sl-gullwing-coupe"
+  },
+  {
+    "price": "$235,200",
+    "year": "2017",
+    "brand": "Dodge",
+    "description": "Viper ACR \"Extreme Aero Package\"",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1580/77106/790x1024/2017-dodge-viper-acr-extreme-aero-package"
+  },
+  {
+    "price": "$128,800",
+    "year": "1967",
+    "brand": "Jaguar",
+    "description": "E-Type Series 1 4.2 Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1425/60097/790x1024/1967-jaguar-e-type-series-1-4-2-roadster"
+  },
+  {
+    "price": "$ction",
+    "year": "2007",
+    "brand": "Porsche",
+    "description": "RS Spyder Evo",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1521/75875/790x1024/2007-porsche-rs-spyder-evo"
+  },
+  {
+    "price": "$764,000",
+    "year": "2006",
+    "brand": "Ford",
+    "description": "GT Heritage Edition",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1433/63516/790x1024/2006-ford-gt-heritage-edition"
+  },
+  {
+    "price": "$190,400",
+    "year": "1969",
+    "brand": "Mercedes-Benz",
+    "description": "280 SL \"Pagoda\"",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1550/71818/790x1024/1969-mercedes-benz-280-sl-pagoda"
+  },
+  {
+    "price": "$417,500",
+    "year": "1996",
+    "brand": "Porsche",
+    "description": "911 Carrera RS",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1563/73008/790x1024/1996-porsche-911-carrera-rs"
+  },
+  {
+    "price": "$190,400",
+    "year": "1972",
+    "brand": "Ferrari",
+    "description": "365 GTC/4",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1511/69342/790x1024/1972-ferrari-365-gtc-4"
+  },
+  {
+    "price": "$109,200",
+    "year": "1982",
+    "brand": "Porsche",
+    "description": "911SC Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1595/75749/790x1024/1982-porsche-911sc-coupe"
+  },
+  {
+    "price": "$254,800",
+    "year": "1980",
+    "brand": "Aston",
+    "description": "Martin V8 Volante",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1322/59337/790x1024/1980-aston-martin-v8-volante"
+  },
+  {
+    "price": "$134,400",
+    "year": "1968",
+    "brand": "Porsche",
+    "description": "911 \"Soft Window\" Targa",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1557/74424/790x1024/1968-porsche-911-soft-window-targa"
+  },
+  { "price": "$22,400", "year": "1992", "brand": "Autozam", "description": "AZ-1", "img": "https://cdn.dealeraccelerate.com/bagauction/9/1587/73990/790x1024/1992-autozam-az-1" },
+  {
+    "price": "$78,400",
+    "year": "2000",
+    "brand": "Ferrari",
+    "description": "360 Modena",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1525/70789/790x1024/2000-ferrari-360-modena"
+  },
+  {
+    "price": "$84,000",
+    "year": "1968",
+    "brand": "Jaguar",
+    "description": "E-Type Series 1½ 4.2 Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1510/69362/790x1024/1968-jaguar-e-type-series-1-4-2-roadster"
+  },
+  {
+    "price": "$47,600",
+    "year": "1984",
+    "brand": "BMW",
+    "description": "Alpina C1 2.3",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1508/61282/790x1024/1984-bmw-alpina-c1-2-3"
+  },
+  {
+    "price": "$58,800",
+    "year": "1968",
+    "brand": "Porsche",
+    "description": "912 Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1537/73992/790x1024/1968-porsche-912-coupe"
+  },
+  {
+    "price": "$67,200",
+    "year": "1963",
+    "brand": "Citroen",
+    "description": "2CV 4x4 \"Sahara\"",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1430/66939/790x1024/1963-citroen-2cv-4x4-sahara"
+  },
+  {
+    "price": "$98,000",
+    "year": "1958",
+    "brand": "Volkswagen",
+    "description": "Type 2 '23-Window' Sunroof Deluxe Microbus",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1435/62408/790x1024/1958-volkswagen-type-2-23-window-sunroof-deluxe-microbus"
+  },
+  {
+    "price": "$112,000",
+    "year": "1963",
+    "brand": "Jaguar",
+    "description": "E-Type Series 1 3.8 Roadster",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1436/63846/790x1024/1963-jaguar-e-type-series-1-3-8-roadster"
+  },
+  {
+    "price": "$92,400",
+    "year": "1969",
+    "brand": "Mercedes-Benz",
+    "description": "280 SL \"Pagoda\"",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1526/73820/790x1024/1969-mercedes-benz-280-sl-pagoda"
+  },
+  {
+    "price": "$58,800",
+    "year": "1999",
+    "brand": "Mercedes-Benz",
+    "description": "SL 500",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1597/76207/790x1024/1999-mercedes-benz-sl-500"
+  },
+  {
+    "price": "$67,200",
+    "year": "1982",
+    "brand": "Toyota",
+    "description": "Land Cruiser FJ40",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1592/75398/790x1024/1982-toyota-land-cruiser-fj40"
+  },
+  {
+    "price": "$109,200",
+    "year": "1971",
+    "brand": "Porsche",
+    "description": "911 T Coupe",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1427/61891/790x1024/1971-porsche-911-t-coupe"
+  },
+  {
+    "price": "$78,400",
+    "year": "1965",
+    "brand": "Austin-Healey",
+    "description": "3000 MK III BJ8",
+    "img": "https://cdn.dealeraccelerate.com/bagauction/9/1601/76439/790x1024/1965-austin-healey-3000-mk-iii-bj8"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "price": "$8,500",
+    "year": "1952",
+    "brand": "International",
+    "description": "Harverster L-122",
+    "img": "https://barnfinds.com/wp-content/uploads/2023/10/1952-International-L-122-13-630x390.jpeg"
+  },
+  {
+    "price": "$3,000",
+    "year": "1972",
+    "brand": "Toyota",
+    "description": "FJ40",
+    "img": "https://barnfinds.com/wp-content/uploads/2023/10/1972-Toyota-FJ40-1-e1698292656785-630x390.jpeg"
+  },
+  {
+    "price": "$20,000",
+    "year": "1969",
+    "brand": "Chevrolet",
+    "description": "Corvette 427/4-Speed",
+    "img": "https://barnfinds.com/wp-content/uploads/2023/10/1969-Chevrolet-Corvette-Convertible-427-630x390.jpeg"
+  },
+  {
+    "price": "$500",
+    "year": "1987",
+    "brand": "Pontiac",
+    "description": "6000 STE",
+    "img": "https://barnfinds.com/wp-content/uploads/2023/10/1987-Pontiac-6000-STE-01-e1698475789546-630x390.jpeg"
+  }
+]
