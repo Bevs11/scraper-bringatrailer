@@ -24,20 +24,44 @@ async function scrapeAuctions() {
 // });
 
 async function scrapeBringATrailer() {
-  const response = await axios.get(URL);
-  const html = await response.data;
-  const $ = cheerio.load(html);
-  const container = $("div.listings-container");
-  container
-    .find("a.listing-card.bg-white-transparent > h3")
-    .each((index, auction) => {
-      const randomText = $(auction).text();
-      //   const auctionLink = $(auction).attr("href");
-      // auctionURL.push("hello");
-      console.log(randomText);
-    });
+  try {
+    const response = await axios.get(URL);
+    const html = response.data;
+    const $ = cheerio.load(html);
+    const products = $(
+      "body > main > div > div.container.container-flex > div.column.column-right.column-right-force.column-flex-right > div.essentials > div:nth-child(5) > strong"
+    );
+    console.log(products.text());
+  } catch (error) {
+    console.error("Error scraping Bring A Trailer:", error);
+  }
 }
 
-scrapeBringATrailer().then(() => {
-  //   console.log(auctionURL);
-});
+scrapeBringATrailer().then((data) => {});
+
+// async function scrapeBringATrailer() {
+//   try {
+//     const response = await axios.get(website);
+//     const html = response.data;
+//     const $ = cheerio.load(html);
+//     const $products = $("div.products");
+//     let extractedData = [];
+//     const $items = $products.find("a");
+//     console.log("length:", $items.length);
+
+//     $items.each((index, item) => {
+//       const title = $(item).text();
+//       if (title) {
+//         extractedData.push(title);
+//       }
+//     });
+
+//     return extractedData;
+//   } catch (error) {
+//     console.error("Error scraping Bring A Trailer:", error);
+//   }
+// }
+
+// scrapeBringATrailer().then((data) => {
+//   console.log("Extracted Data:", data);
+// });
