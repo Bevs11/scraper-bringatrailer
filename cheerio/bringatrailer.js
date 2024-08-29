@@ -46,8 +46,6 @@ scrapeBringATrailer().then((data) => {});
 
 // minnor fix 4
 // minnor fix 5
-// minor fix 6
-//minor fix 7
 // async function scrapeBringATrailer() {
 //   try {
 //     const response = await axios.get(website);
