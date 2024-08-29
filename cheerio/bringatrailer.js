@@ -41,6 +41,8 @@ scrapeBringATrailer().then((data) => {});
 
 //minor fix
 
+// minor fix 2
+
 // async function scrapeBringATrailer() {
 //   try {
 //     const response = await axios.get(website);
